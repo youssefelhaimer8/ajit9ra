@@ -1,0 +1,11 @@
+<svg class="lds-equalizer" width="176px"  height="176px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" style="background: none;"><g transform="rotate(180 50 50)"><rect ng-attr-x="{{16.666666666666668 - config.width/2}}" y="18.500000000000004" ng-attr-width="{{config.width}}" height="10.3318" fill="#5a1714" x="12.666666666666668" width="8">
+  <animate attributeName="height" calcMode="spline" values="45;67.5;9;45" times="0;0.33;0.66;1" ng-attr-dur="{{config.speed}}" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-8s" dur="10">
+</animate></rect><rect ng-attr-x="{{33.333333333333336 - config.width/2}}" y="18.500000000000004" ng-attr-width="{{config.width}}" height="67.4372" fill="#bc2412" x="29.333333333333336" width="8">
+  <animate attributeName="height" calcMode="spline" values="45;67.5;9;45" times="0;0.33;0.66;1" ng-attr-dur="{{config.speed}}" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-4s" dur="10">
+</animate></rect><rect ng-attr-x="{{50 - config.width/2}}" y="18.500000000000004" ng-attr-width="{{config.width}}" height="31.9112" fill="#d56b34" x="46" width="8">
+  <animate attributeName="height" calcMode="spline" values="45;67.5;9;45" times="0;0.33;0.66;1" ng-attr-dur="{{config.speed}}" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-6s" dur="10">
+</animate></rect><rect ng-attr-x="{{66.66666666666667 - config.width/2}}" y="18.500000000000004" ng-attr-width="{{config.width}}" height="41.3533" fill="#6b5b4b" x="62.66666666666667" width="8">
+  <animate attributeName="height" calcMode="spline" values="45;67.5;9;45" times="0;0.33;0.66;1" ng-attr-dur="{{config.speed}}" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="0s" dur="10">
+</animate></rect><rect ng-attr-x="{{83.33333333333333 - config.width/2}}" y="18.500000000000004" ng-attr-width="{{config.width}}" height="50.2902" fill="#e6b05d" x="79.33333333333333" width="8">
+  <animate attributeName="height" calcMode="spline" values="45;67.5;9;45" times="0;0.33;0.66;1" ng-attr-dur="{{config.speed}}" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-2s" dur="10">
+</animate></rect></g></svg>

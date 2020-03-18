@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+*{font-family: 'Cairo', sans-serif;}
+body{background-color: rgba(0, 0, 0, 0.81);text-align: right;color: white}
+.btn{
+    margin-top: 10px
+}
+.home{margin-right: 10px;margin-top: 15px;}
+.scl{height: 300px;background-color: red}
+.ms{border:1px solid rgba(255, 165, 0, 0.42);margin:6px;height: 40px;padding: 6px;border-radius: 10px}
+.goplayer{line-height: 40px}
+.clr{cursor: pointer}
+.logovideo{position: absolute;margin-right: 14px;height: 100px;width: 100px;}
+.commenture{background-color: #fafafa;padding: 1%;margin-top: 10px;border-top-right-radius: 25px;border-bottom-left-radius: 25px;border: 1px solid #10dd96;color: black}
+.cmn{padding: 2%;border: 1px solid gray;border-radius: 10px;margin: 1%}
+.addcmn{margin-top: 15px;}
+.addcmn textarea{width: 100%;float: right;margin-left: 10px;border-radius: 16px;border: 1px solid #1276cc}
+.addcmn addcmntrs{width: 35%;margin-right: 15px}
+.logo_cmn{position: absolute;;margin-top: -40px;margin-right: 250px;border: 1px solid rgba(0, 0, 0, 0.59);border-radius: 50%;padding: 1%;background-color: white}
+.bor{border: 1px solid rgba(128, 128, 128, 0.74);padding: 4px;margin-left: 5px;font-size: 12px;border-radius: 9px}
+.links:hover{color: rgba(0, 84, 219, 0.83)}
